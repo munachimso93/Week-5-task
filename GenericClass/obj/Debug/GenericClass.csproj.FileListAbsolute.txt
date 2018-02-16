@@ -1,0 +1,7 @@
+C:\Users\CYBERACADEMY\Desktop\Learning C#\GenericClass\GenericClass\bin\Debug\GenericClass.exe.config
+C:\Users\CYBERACADEMY\Desktop\Learning C#\GenericClass\GenericClass\bin\Debug\GenericClass.exe
+C:\Users\CYBERACADEMY\Desktop\Learning C#\GenericClass\GenericClass\bin\Debug\GenericClass.pdb
+C:\Users\CYBERACADEMY\Desktop\Learning C#\GenericClass\GenericClass\obj\Debug\GenericClass.csprojResolveAssemblyReference.cache
+C:\Users\CYBERACADEMY\Desktop\Learning C#\GenericClass\GenericClass\obj\Debug\GenericClass.csproj.CoreCompileInputs.cache
+C:\Users\CYBERACADEMY\Desktop\Learning C#\GenericClass\GenericClass\obj\Debug\GenericClass.exe
+C:\Users\CYBERACADEMY\Desktop\Learning C#\GenericClass\GenericClass\obj\Debug\GenericClass.pdb
